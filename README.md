@@ -7,8 +7,11 @@ This is a Next.js starter template with Tailwind CSS. It is meant to be used the
 Run the development server:
 
 ```bash
-npm install
-npm run dev
+npm install   // install packages
+npm run dev   // run development server
+
+npm run lint  // run eslint
+npm run fix   // auto-fix the linting issues
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
